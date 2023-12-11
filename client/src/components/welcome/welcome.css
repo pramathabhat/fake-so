@@ -1,0 +1,30 @@
+.welcome-page-format {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    border-bottom:  1px solid black;
+}
+
+.welcome-page-format h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+.welcome-page-format h2 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+
+.welcome-page-format ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.welcome-page-format button {
+    padding: 10px 20px;
+    font-size: 1em;
+    margin: 5px;
+}

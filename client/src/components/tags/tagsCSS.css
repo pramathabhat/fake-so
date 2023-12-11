@@ -1,0 +1,62 @@
+.so-tags-upper-div {
+  margin: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.so-tags-content-div {
+  margin-top: 2%;
+  margin-right: 10%;
+  margin-left: 10%;
+}
+
+#tagsPage .ask-button-format {
+  height: 96%;
+  width: 80%;
+}
+
+.tagNode a {
+  text-decoration: underline;
+  color: blue;
+}
+
+.so-flex-row-container {
+  display: -webkit-box;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.tagNode {
+  width: 170px;
+  height: 70px;
+  border: 2px dotted #000;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 5px;
+  margin-right: 8%;
+}
+
+.so-tags-justify-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  margin-bottom: 5%;
+}
+
+.tags-centering {
+  margin-top: 2.5%;
+}
+
+#tagsPage .grid-container {
+  display: block;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  height: 100%;
+}
+
+.error-message {
+  color: red;
+  text-align: center;
+}

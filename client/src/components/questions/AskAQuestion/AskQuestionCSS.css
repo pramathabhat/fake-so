@@ -1,0 +1,58 @@
+.titles-format {
+    font-size: 2em;
+}
+
+.add_question-format {
+    /*display: none;*/
+    text-align: left;
+    float: left;
+    padding-left: 3%;
+    padding-right: 3%;
+    margin-top: 3%;
+    width: 80%;
+}
+
+.title-textarea-format {
+    width: 100%;
+    height: 15%;
+}
+
+.text-textarea-format {
+    width: 100%;
+    height: 50%;
+}
+
+.tag-textarea-format {
+    width: 100%;
+    height: 15%;
+}
+
+.username-textarea-format {
+    width: 100%;
+    height: 15%;
+
+}
+
+.delete-button-format {
+    background-color: darkred;
+    color: white;
+    cursor: pointer;
+}
+
+.repost-button-format {
+    background-color: darkslategrey;
+    color: white;
+    cursor: pointer;
+}
+
+.error-format {
+    width: 45%;
+    color: red;
+    margin-bottom: 2.5%;
+}
+
+.indication-format {
+    float: right;
+    width: 45%;
+    color: red;
+}

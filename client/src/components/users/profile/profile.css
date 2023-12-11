@@ -1,0 +1,38 @@
+.profile-page-format {
+    float: left;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.profile-container-format {
+    width: 100%;
+}
+
+
+.profile-info-format {
+    font-size: 2em;
+    /*text-align: center;*/
+}
+
+.profile-header-format {
+    font-size: 3em;
+    /*text-align: left;*/
+}
+
+.profile-sub-header-format {
+    margin-top: 5%;
+    font-size: 2.5em;
+    /*text-align: left;*/
+}
+
+.profile-link-format {
+    /*margin-top: 3%;*/
+    margin-bottom: 3%;
+    /*text-align: left;*/
+    font-size: 2em;
+
+}
+
+.profile-list-format {
+    font-size: 1.5em;
+}

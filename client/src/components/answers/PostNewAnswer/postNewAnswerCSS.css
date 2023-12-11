@@ -1,0 +1,48 @@
+.enteranswererror,
+.usernameerror,
+.so-text-red {
+  color: red;
+}
+
+.so-fontsize-30px {
+  font-size: 30px;
+}
+
+.so-margin-left-10p {
+  margin-left: 10%;
+}
+
+.so-margintop-40px {
+  margin-top: 40px;
+}
+
+.so-text-red {
+  color: red;
+}
+
+.so-user-width-height {
+  width: 300px;
+  height: 40px;
+}
+
+.so-padding-15px {
+  padding: 15px;
+}
+
+.so-background-cornflowerblue {
+  background-color: cornflowerblue;
+  color: white;
+}
+
+.so-background-cornflowerblue:hover {
+  cursor: pointer;
+}
+
+#usernameerror,
+#enteranswererror {
+  color: red;
+}
+
+#answerQuestions{
+    padding-left: 20px;
+}

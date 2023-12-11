@@ -1,0 +1,141 @@
+.so-answer-content {
+  width: 80%;
+  margin: 2%;
+}
+
+.so-answer-property {
+  width: 22%;
+  margin: 2%;
+}
+
+.so-questionby-color {
+  color: green;
+}
+
+.so-questiondate-color {
+  color: gray;
+}
+
+.so-upper-div {
+  margin: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.so-background-cornflowerblue {
+  background-color: cornflowerblue;
+  color: white;
+}
+
+.so-background-darkred {
+  background-color: darkred;
+  color: white;
+}
+
+.so-background-darkslategrey {
+  background-color: darkslategrey;
+  color: white;
+}
+
+.so-answer-question {
+  background-color: cornflowerblue;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 20px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.so-dotted-line {
+  border: none;
+  border-top: 2px dotted #ccc;
+  clear: both;
+  height: 1px;
+  margin: 20px 0;
+}
+
+#answerPage .so-flex-row-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.answerText {
+  width: 70%;
+  text-align: left;
+}
+
+#answersHeader {
+  margin: 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#answersHeader > div {
+  flex: 1;
+}
+
+#answersHeader .top-right {
+  text-align: end;
+}
+
+#formattedAnswers {
+  max-height: 1000px;
+  overflow-y: auto;
+}
+.so-commentText {
+  margin-left: 20px;
+  margin-right: 10px;
+}
+
+.quesErrorMessage {
+  margin-left: 20px;
+  color: red;
+}
+
+.commentStyle {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px 0;
+  margin-left: 10px;
+  background-color: lightgray;
+}
+
+.commentHeader {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 8px;
+}
+
+.commentUsername {
+  font-weight: bold;
+  margin-right: 8px;
+}
+
+.commentDate {
+  color: #555;
+}
+
+.commentText {
+  white-space: pre-line;
+}
+
+.commentVotes {
+  margin-top: 8px;
+}
+
+.commentVotes button {
+  margin-right: 8px;
+}
+
+.error-format {
+  color: crimson;
+}

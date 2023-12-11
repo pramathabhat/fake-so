@@ -1,0 +1,35 @@
+.add-user-format {
+    /*display: none;*/
+    text-align: left;
+    /*float: left;*/
+    padding-left: 25%;
+    padding-right: 25%;
+    margin-top: 3%;
+    width: 50%;
+}
+
+.textarea-format {
+    width: 100%;
+    height: 15%;
+    font-size: 18px;
+}
+
+.titles-format {
+    font-size: 2em;
+}
+
+.header-format {
+    font-size: 3em;
+}
+
+.error-format {
+    width: 45%;
+    color: red;
+    margin-bottom: 2.5%;
+}
+
+.indication-format {
+    float: right;
+    width: 45%;
+    color: red;
+}

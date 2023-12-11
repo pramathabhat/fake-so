@@ -1,0 +1,30 @@
+.header {
+    background-color: lightgray;
+    padding: 5px;
+}
+
+.header-title-format {
+    text-align: center;
+}
+
+.header-searchbar-format {
+    text-align: end;
+    align-items: center;
+    transform: translateY(-200%) translateX(-5%);
+}
+
+.link-format {
+    display: block;
+    text-align: center;
+}
+
+.nav-active-color {
+    background-color: lightgray;
+}
+
+.navbar-border {
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    /*border-bottom: 1px solid black;*/
+    /*min-height: ;*/
+}
