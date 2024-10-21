@@ -93,7 +93,7 @@ Add design docs in *images/*
 
 ### Use-Cases:
 #### All Tags - Actors Registered user, Guest user.
-#### Answers - Actors Guest user - votes pending
+#### Answers - Actors Guest user.
 #### Answers - Actors Registered user.
 #### Comments - Actors Guest user.
 #### Comments - Actors Registered user.
